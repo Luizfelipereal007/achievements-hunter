@@ -1,2 +1,3 @@
-# achievements-hunter
-Repository for earning GitHub profile achievements
+# Achievements Hunter
+
+Repository for earning GitHub profile achievements.
